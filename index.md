@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Digital Profile
 
 You can use the [editor on GitHub](https://github.com/asuka12/tu107_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
